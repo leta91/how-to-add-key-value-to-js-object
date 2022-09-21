@@ -1,4 +1,4 @@
-# freeCodeCamp Challenge with House of the Dragon Characters
+# freeCodeCamp Challenge with House of the Dragon Characters 🔥🐉
 
 ## 5th Chapter named "Basic Data Structures"
 ## 13th Section of the JavaScript Certification
